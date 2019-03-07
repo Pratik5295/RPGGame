@@ -1,0 +1,3 @@
+This is a implementation of a RPG game, where the main mechanics would include hack and slash.
+
+Made by Pratik Shringarpure.
